@@ -35,7 +35,7 @@ void pre_auton(void) {
 //Settings
 double kP = 0.0;
 double kI = 0.0;
-double kD = 0.0;
+double kD = 0.05;
 
 
 // Autonomous Settings
