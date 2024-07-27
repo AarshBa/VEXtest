@@ -1,0 +1,10 @@
+using namespace vex;
+extern brain Brain;
+extern drivetrain Drivetrain;
+extern controller Controller;
+extern motor LF1;
+extern motor LB1;
+extern motor RF1;
+extern motor RB1;
+extern motor_group LDrive;
+extern motor_group RDrive;
